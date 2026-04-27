@@ -40,23 +40,23 @@ Strategic intelligence translates technical risk into business language — help
 - Strategic Intelligence is the process of collecting, analyzing, and distributing information to support high-level, long-term decision-making. Unlike tactical intelligence—which focuses on immediate, day-to-day operations—strategic intelligence looks at the "big picture."
 - It is designed to identify long-term trends, emerging threats, and potential opportunities that will affect an organization or a nation years into the future.
 
-### Example: "Ransomware groups are increasingly targeting healthcare. Three of your competitors were hit this quarter."
+### Example: Ransomware groups are increasingly targeting healthcare. Three of your competitors were hit this quarter.
 
 2. **Tactical Intelligence**
 - Tactical Intelligence is information that is collected, analyzed, and used to support immediate, short-term actions. If Strategic Intelligence is the "high-powered radar" looking at the horizon, Tactical Intelligence is the "boots on the ground" view that helps you deal with the situation happening right now. It is highly specific, time-sensitive, and focused on current operations.
 
-### Example: "A store manager notices a sudden rainstorm and immediately moves the umbrella display to the front door to catch impulsive buyers."
+- Example: A store manager notices a sudden rainstorm and immediately moves the umbrella display to the front door to catch impulsive buyers.
 
 3. **Operational Intelligence (OI)**
 - Operational Intelligence (OI) is the "middle ground" between big-picture strategy and immediate tactics. It focuses on the day-to-day activities and processes that keep an organization running smoothly.
 While tactics handle a single moment and strategy handles the distant future, operational intelligence looks at current trends and performance over days or weeks.
 
-### Example: A logistics manager monitors a dashboard showing that delivery trucks are consistently delayed by 20 minutes this week due to roadwork and adjusts the departure times for the rest of the month.
+- Example: A logistics manager monitors a dashboard showing that delivery trucks are consistently delayed by 20 minutes this week due to roadwork and adjusts the departure times for the rest of the month.
 
 4. **Technical Intelligence**
 - Technical Intelligence (TECHINT) is the specialized process of gathering and analyzing information about foreign or competitor equipment, weapons, and technology. It focuses on "how things work" under the hood. The goal is to understand the capabilities, limitations, and design of a specific piece of technology so you can either copy it, defend against it, or find a way to break it.
 
-### Example: An engineer analyzes the specific encryption algorithm used by a competitor's app to understand how they keep user data so secure.
+- Example: An engineer analyzes the specific encryption algorithm used by a competitor's app to understand how they keep user data so secure.
 
 
 
