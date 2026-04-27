@@ -33,3 +33,13 @@ Strategic intelligence translates technical risk into business language — help
 |Who|What & How|Why & When|
 |---|----------|----------|
 |Who is targeting you? Which threat actors, groups, nation-states, or criminal organizations pose a risk.|What techniques, tools, and vulnerabilities are they using? How do they operate — their TTPs and attack chains.|What motivates them — financial gain, espionage, hacktivism? When are they most active?|
+
+# Types of Threat Intelligence
+- Four distinct levels — each serving a different audience and purpose
+1. *Strategic Intelligence*
+Audience: CISO, Board, Executives
+Timeframe: Long-term (months–years)
+Format: Reports, briefings, trend analysis
+- High-level overview of the threat landscape. Covers geopolitical trends, industry targeting patterns, nation-state activity, and risk to business objectives. Non-technical language. Helps drive security investment decisions and risk appetite.
+
+### Example: "Ransomware groups are increasingly targeting healthcare. Three of your competitors were hit this quarter."
