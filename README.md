@@ -58,7 +58,13 @@ While tactics handle a single moment and strategy handles the distant future, op
 
 - Example: An engineer analyzes the specific encryption algorithm used by a competitor's app to understand how they keep user data so secure.
 
+## Comparison
 
-
+| Type        | Audience           | Timescale    | Technical Level | Purpose                 |
+| ----------- | ------------------ | ------------ | --------------- | ----------------------- |
+| Strategic   | Executives / Board | Months–Years | Low             | Budget & risk decisions |
+| Tactical    | Security teams     | Weeks–Months | Medium          | Defense architecture    |
+| Operational | SOC / IR teams     | Days–Weeks   | Medium-High     | Active threat response  |
+| Technical   | Analysts / tools   | Hours–Days   | High            | Detection & blocking    |
 
 
