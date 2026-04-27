@@ -51,5 +51,14 @@ Strategic intelligence translates technical risk into business language — help
 - Operational Intelligence (OI) is the "middle ground" between big-picture strategy and immediate tactics. It focuses on the day-to-day activities and processes that keep an organization running smoothly.
 While tactics handle a single moment and strategy handles the distant future, operational intelligence looks at current trends and performance over days or weeks.
 
+### Example: A logistics manager monitors a dashboard showing that delivery trucks are consistently delayed by 20 minutes this week due to roadwork and adjusts the departure times for the rest of the month.
+
+4. **Technical Intelligence**
+- Technical Intelligence (TECHINT) is the specialized process of gathering and analyzing information about foreign or competitor equipment, weapons, and technology. It focuses on "how things work" under the hood. The goal is to understand the capabilities, limitations, and design of a specific piece of technology so you can either copy it, defend against it, or find a way to break it.
+
+### Example: An engineer analyzes the specific encryption algorithm used by a competitor's app to understand how they keep user data so secure.
+
+
+
 
 
