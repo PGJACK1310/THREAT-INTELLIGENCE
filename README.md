@@ -27,3 +27,9 @@ When an incident occurs, pre-built threat profiles reduce Mean Time to Detect (M
 Not every threat applies to you. TI helps security teams focus energy on threats relevant to your industry, geography, and technology stack.
 - Executive Reporting
 Strategic intelligence translates technical risk into business language — helping boards understand cybersecurity investment decisions.
+
+### The Intelligence Triad
+
+|Who|What & How|Why & When|
+|---|----------|----------|
+|Who is targeting you? Which threat actors, groups, nation-states, or criminal organizations pose a risk.|What techniques, tools, and vulnerabilities are they using? How do they operate — their TTPs and attack chains.|What motivates them — financial gain, espionage, hacktivism? When are they most active?|
