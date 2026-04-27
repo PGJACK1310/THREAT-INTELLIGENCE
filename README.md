@@ -37,6 +37,7 @@ Strategic intelligence translates technical risk into business language — help
 # Types of Threat Intelligence
 - Four distinct levels — each serving a different audience and purpose
 1. *Strategic Intelligence*
+
 Audience: CISO, Board, Executives
 Timeframe: Long-term (months–years)
 Format: Reports, briefings, trend analysis
