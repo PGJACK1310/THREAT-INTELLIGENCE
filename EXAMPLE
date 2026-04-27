@@ -1,0 +1,14 @@
+# My Project
+
+## 🚀 Example Code
+
+```javascript
+function hello() {
+    console.log("Hello GitHub!");
+}
+```
+
+```python
+def hello():
+    print("Hello GitHub!")
+```
