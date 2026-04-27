@@ -37,10 +37,7 @@ Strategic intelligence translates technical risk into business language — help
 # Types of Threat Intelligence
 - Four distinct levels — each serving a different audience and purpose
 1. *Strategic Intelligence*
-
-Audience: CISO, Board, Executives
-Timeframe: Long-term (months–years)
-Format: Reports, briefings, trend analysis
-- High-level overview of the threat landscape. Covers geopolitical trends, industry targeting patterns, nation-state activity, and risk to business objectives. Non-technical language. Helps drive security investment decisions and risk appetite.
+- Strategic Intelligence is the process of collecting, analyzing, and distributing information to support high-level, long-term decision-making. Unlike tactical intelligence—which focuses on immediate, day-to-day operations—strategic intelligence looks at the "big picture."
+- It is designed to identify long-term trends, emerging threats, and potential opportunities that will affect an organization or a nation years into the future.
 
 ### Example: "Ransomware groups are increasingly targeting healthcare. Three of your competitors were hit this quarter."
